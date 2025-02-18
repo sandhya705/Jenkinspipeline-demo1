@@ -1,4 +1,4 @@
 # Jenkinspipeline-demo1
-Sandhya
+G.Sandhya
 B.tech-CSE
 Trinity college of engineering and technology,peddapalli
